@@ -23,14 +23,30 @@ module.exports = {
         },
         white: "#FFF",
         transparent: "transparent",
+        modalBg: "#10021ee6",
         golden: "#D6AB74",
         thunder: "#20063C",
         water: "#0B2244",
         fire: "#1E0206",
         ice: "#171536",
       },
+      width: {
+        13: "3.25rem",
+        27: "6.75rem",
+        21: "5.25rem",
+      },
+      height: {
+        13: "3.25rem",
+        27: "6.75rem",
+        21: "5.25rem",
+      },
       padding: {
-        13: "3.375rem",
+        13: "3.25rem",
+        19: "4.75rem",
+        23: "5.75rem",
+      },
+      margin: {
+        21: "5.25rem",
       },
       backgroundImage: {
         "thunder-img": "url('./assets/thunder-bg.jpg')",
@@ -39,6 +55,9 @@ module.exports = {
         "ice-img": "url('./assets/ice-bg.jpg')",
         "main-gradient":
           "linear-gradient(270deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.56) 50%, rgba(0, 0, 0, 0.00) 100%)",
+      },
+      boxShadow: {
+        custom: "0px 4px 34px 0px rgba(0, 0, 0, 0.70);",
       },
     },
   },
