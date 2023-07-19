@@ -55,10 +55,10 @@ module.exports = {
         21: "5.25rem",
       },
       backgroundImage: {
-        "thunder-img": "url('./assets/thunder-bg.jpg')",
-        "water-img": "url('./assets/water-bg.jpg')",
-        "fire-img": "url('./assets/fire-bg.jpg')",
-        "ice-img": "url('./assets/ice-bg.jpg')",
+        "thunder-img": "url('~assets/thunder-bg.jpg')",
+        "water-img": "url('~assets/water-bg.jpg')",
+        "fire-img": "url('~assets/fire-bg.jpg')",
+        "ice-img": "url('~assets/ice-bg.jpg')",
         "main-gradient":
           "linear-gradient(270deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.56) 50%, rgba(0, 0, 0, 0.00) 100%)",
       },
