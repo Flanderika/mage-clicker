@@ -27,7 +27,7 @@ The art the relevant copyright of Genshin Impact belongs to miHoYo/HoYoverse.
 
 ---
 
-* Project static markup design | Dерстка статики проекта
+* Project static markup design | Верстка статики проекта
 
 <div align="center">
   
@@ -43,3 +43,14 @@ The art the relevant copyright of Genshin Impact belongs to miHoYo/HoYoverse.
   * Sound and animation playback for Abyss Mage| Проигрывание звука и анимации мага бездны
   * Expansion of the bottom menu | Раскрытие нижнего меню
   * Theme switching | Переключение тем
+  * Create this famous README | Создал этот замечательный README
+
+<div align="center">
+  
+### 0.2.1
+
+</div>
+
+---
+
+* "corrected a typo | Поправил очепятки в README
