@@ -161,7 +161,7 @@ export default {
 }
 
 .menu {
-  @apply absolute pointer-events-none bottom-0 left-0 h-full w-full overflow-hidden;
+  @apply absolute z-50 pointer-events-none bottom-0 left-0 h-full w-full overflow-hidden;
 }
 
 .menu::before {

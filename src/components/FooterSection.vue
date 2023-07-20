@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer h-16 mt-[14px]">
+  <footer class="footer h-16">
     <slot />
   </footer>
 </template>
