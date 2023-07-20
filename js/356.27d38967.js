@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[356],{1356:function(e,c,k){k.r(c)}}]);

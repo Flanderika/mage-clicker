@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[566],{1566:function(e,c,a){e.exports=a.p+"media/Banks24_1027.0836b8b1.wav"}}]);

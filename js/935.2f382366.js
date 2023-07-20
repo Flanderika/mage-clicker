@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[935],{935:function(e,c,f){e.exports=f.p+"fonts/Default_JP.78ef13aa.woff"}}]);

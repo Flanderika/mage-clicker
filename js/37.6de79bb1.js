@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[37],{5037:function(e,c,s){e.exports=s.p+"img/textCloud.a8b3d5c3.svg"}}]);

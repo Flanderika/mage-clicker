@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[948],{1948:function(e,c,k){e.exports=k.p+"img/water-bg.16ec1037.jpg"}}]);

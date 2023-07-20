@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[872],{2872:function(e,c,i){e.exports=i.p+"img/ice-bg.c6641503.jpg"}}]);

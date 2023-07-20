@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[215],{1215:function(e,c,i){e.exports=i.p+"img/fire-bg.ceeb3d54.jpg"}}]);

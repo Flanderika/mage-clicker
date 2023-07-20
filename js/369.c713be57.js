@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkmage_clicker"]=self["webpackChunkmage_clicker"]||[]).push([[369],{4369:function(e,s,c){e.exports=c.p+"img/settings.e6595785.svg"}}]);
