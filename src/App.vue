@@ -2,35 +2,8 @@
   <div
     :class="`font-primary theme theme--${activeTheme} flex flex-col h-screen`"
   >
-    <main class="flex flex-col flex-grow pt-10 text-primary text-center">
-      <div>
-        <div
-          class="text-base px-40 py-13 bg-main-gradient max-w-[1184px] mx-auto"
-        >
-          <h1 class="text-2xl">{{ messages.ru.welcome }}</h1>
-
-          <p class="text-xl mt-4">
-            {{ messages.ru.description }}
-          </p>
-        </div>
-
-        <div
-          class="mt-4 px-40 pt-6 pb-5 bg-main-gradient max-w-[1184px] mx-auto"
-        >
-          <p class="text-xl">{{ messages.ru.counter }}</p>
-          <p class="text-2xl mt-1">{{ counter }}</p>
-        </div>
-      </div>
-
-      <div class="flex flex-col flex-grow justify-end pb-16">
-        <div>
-          <button
-            class="button button--primary rounded-3xl px-4 py-3 w-full max-w-[392px] mx-auto"
-          >
-            Крутить мага!
-          </button>
-        </div>
-      </div>
+    <main class="flex-grow pt-10 text-primary text-center">
+      <clicker-field />
     </main>
 
     <footer-section>
@@ -41,11 +14,13 @@
 <script>
 import { mapGetters, mapMutations } from "vuex";
 
+import ClickerField from "./components/ClickerField";
 import FooterSection from "./components/FooterSection";
 import FooterMenu from "./components/FooterMenu";
 export default {
   name: "App",
   components: {
+    ClickerField,
     FooterSection,
     FooterMenu,
   },
